@@ -1,0 +1,10 @@
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\bin\Debug\StegPro.exe.config
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\bin\Debug\StegPro.exe
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\bin\Debug\StegPro.pdb
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.csprojAssemblyReference.cache
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.Form1.resources
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.Properties.Resources.resources
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.csproj.GenerateResource.cache
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.csproj.CoreCompileInputs.cache
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.exe
+C:\Users\piyadist\Desktop\Lesson Projects\Görüntü İşleme\StegPro\StegPro\obj\Debug\StegPro.pdb
